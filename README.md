@@ -16,4 +16,4 @@ A detailed devlog can be found via this link. It contains brainstorming ideas, i
 
 🔘 https://docs.google.com/document/d/1gk0Iq3beNDJo89OVb_FDPJ23mQi6ycKGKVkgeffuCus/edit?usp=sharing
 
-Note that this upload only contains the code and a non-working version of the program.
+*Note* that this upload only contains the code and a non-working version of the program.
