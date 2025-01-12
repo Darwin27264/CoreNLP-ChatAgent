@@ -1,4 +1,4 @@
-# ISLA-Chatbot-V2
+# ISLA-Chatbot-V2 (CoreNLP-ChatAgent)
 
 Emulate a chatbot like experience using just NLP processing and pattern recognition.
 
